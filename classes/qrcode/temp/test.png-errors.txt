@@ -1,0 +1,132 @@
+2022-11-06 16:39:57: QRencode::encodeQRencode::encode -  antes de encodeString QRinput::__constructQRinput::__construct - QRSPEC_VERSION_MAX= 40QRinput::__construct - QR_ECLEVEL_H= 3<br />
+<b>Notice</b>:  Constant QRSPEC_VERSION_MAX already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRspec.php</b> on line <b>37</b><br />
+<br />
+<b>Notice</b>:  Constant QRSPEC_WIDTH_MAX already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRspec.php</b> on line <b>38</b><br />
+<br />
+<b>Notice</b>:  Constant QRCAP_WIDTH already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRspec.php</b> on line <b>40</b><br />
+<br />
+<b>Notice</b>:  Constant QRCAP_WORDS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRspec.php</b> on line <b>41</b><br />
+<br />
+<b>Notice</b>:  Constant QRCAP_REMINDER already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRspec.php</b> on line <b>42</b><br />
+<br />
+<b>Notice</b>:  Constant QRCAP_EC already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRspec.php</b> on line <b>43</b><br />
+<br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2022-11-08 16:07:18: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2022-11-28 08:43:33: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2022-12-09 02:48:24: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2022-12-10 04:36:31: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2022-12-17 19:58:41: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2023-01-05 21:31:49: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2023-01-17 13:59:13: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2023-01-19 05:09:37: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
+2023-02-11 05:22:21: <br />
+<b>Notice</b>:  Constant STRUCTURE_HEADER_BITS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>30</b><br />
+<br />
+<b>Notice</b>:  Constant MAX_STRUCTURED_SYMBOLS already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRinputItem.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N1 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Constant N2 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>32</b><br />
+<br />
+<b>Notice</b>:  Constant N3 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>33</b><br />
+<br />
+<b>Notice</b>:  Constant N4 already defined in <b>/var/www/html/galeriaview/2do/classes/qrcode/QRmask.php</b> on line <b>34</b><br />
